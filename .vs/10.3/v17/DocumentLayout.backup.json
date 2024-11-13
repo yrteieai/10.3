@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\10.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE71DC3-FFA1-4EA6-944A-60731259EEBA}|UnitTest103\\UnitTest103.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\10.3\\UnitTest103\\UnitTest103.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAE71DC3-FFA1-4EA6-944A-60731259EEBA}|UnitTest103\\UnitTest103.vcxproj|solutionrelative:UnitTest103\\UnitTest103.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6674258E-BEE9-4530-B891-42375F65EEF2}|10.3\\10.3.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\10.3\\10.3\\10.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6674258E-BEE9-4530-B891-42375F65EEF2}|10.3\\10.3.vcxproj|solutionrelative:10.3\\10.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest103.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\10.3\\UnitTest103\\UnitTest103.cpp",
+              "RelativeDocumentMoniker": "UnitTest103\\UnitTest103.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\10.3\\UnitTest103\\UnitTest103.cpp",
+              "RelativeToolTip": "UnitTest103\\UnitTest103.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T19:10:02.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10.3.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\10.3\\10.3\\10.3.cpp",
+              "RelativeDocumentMoniker": "10.3\\10.3.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\10.3\\10.3\\10.3.cpp*",
+              "RelativeToolTip": "10.3\\10.3.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T18:42:43.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
